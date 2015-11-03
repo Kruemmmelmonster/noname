@@ -1,9 +1,0 @@
-C:\Users\Marcel\Documents\Visual Studio 2013\Projects\AS_Project\Kruemmel_monsters\Kruemmel_monsters\bin\Debug\Kruemmel_monsters.exe.config
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\bin\Debug\Kruemmel_monsters.exe.config
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\bin\Debug\Kruemmel_monsters.exe
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\bin\Debug\Kruemmel_monsters.pdb
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\obj\Debug\Kruemmel_monsters.csprojResolveAssemblyReference.cache
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\obj\Debug\Kruemmel_monsters.Properties.Resources.resources
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\obj\Debug\Kruemmel_monsters.csproj.GenerateResource.Cache
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\obj\Debug\Kruemmel_monsters.exe
-C:\Users\Børge\Source\Repos\noname\Kruemmel_monsters\Kruemmel_monsters\obj\Debug\Kruemmel_monsters.pdb
