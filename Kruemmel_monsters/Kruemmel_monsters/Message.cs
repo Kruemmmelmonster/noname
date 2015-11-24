@@ -8,24 +8,45 @@ namespace Kruemmel_monsters
 {
     class Message
     {
-        string Type { get; private set; }
-        string Sender { get; private set; }
-        string Receiver { get; private set; }
-        string Content { get; set; }
+        private string type;
+        public string Type
+        {
+            get
+            {
+                return this.type;
+            }
+        }
+        private string sender;
+        public string Sender
+        {
+            get
+            {
+                return this.sender;
+            }
+        }
+        private string receiver;
+        public string Receiver
+        {
+            get
+            {
+                return this.receiver;
+            }
+        }
+        private string Content { get; set; }
 
         public Message(string type, string sender, string receiver, string content)
         {
-            this.Type = type;
-            this.Sender = sender;
-            this.Receiver = receiver;
+            this.type = type;
+            this.sender = sender;
+            this.receiver = receiver;
             this.Content = content;
         }
 
         public Message (string type, string sender, string receiver)
         {
-            this.Type = type;
-            this.Sender = sender;
-            this.Receiver = receiver;
+            this.type = type;
+            this.sender = sender;
+            this.receiver = receiver;
         }
     }
 }
