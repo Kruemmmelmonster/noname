@@ -19,6 +19,21 @@ namespace Kruemmel_monsters.build.Model
             products.Remove(product);
         }
 
+        public List<string> getProductList ()
+        {
+            List<String> stringList = new List<string>();
+            foreach (Product p in products)
+            {
+                stringList.Add(p.getName);
+            }
+            return stringList;
+        }
+
+        public List<Product> getProductList()
+        {
+            return this.products
+        }
+
 
     }
 }
