@@ -24,14 +24,14 @@ namespace Kruemmel_monsters.build.Model
             List<String> stringList = new List<string>();
             foreach (Product p in products)
             {
-                stringList.Add(p.getName);
+                stringList.Add(p.Name);
             }
             return stringList;
         }
 
         public List<Product> getProductList()
         {
-            return this.products
+            return this.products;
         }
 
 
