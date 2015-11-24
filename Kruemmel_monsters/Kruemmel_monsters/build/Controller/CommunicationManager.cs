@@ -8,5 +8,7 @@ namespace Kruemmel_monsters.build.Controller
 {
     class CommunicationManager
     {
+
+        public void onMessage() { ;}
     }
 }
